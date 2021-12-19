@@ -1,5 +1,3 @@
-# R-TD-SANER2022
-
 # Automatic Detection and Analysis of TD in R Packages
 We developed an automatic system to detect TD in peer-review issue comments of R packages. We conducted an empirical study of different TDs in R.
 
